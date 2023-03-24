@@ -29,21 +29,21 @@ Email: kkokklove26@gmail.com
 
 ![img/ui homepag game.png](https://raw.githubusercontent.com/parinya02/portfolio/main/img/ui%20homepag%20game.png?token=GHSAT0AAAAAACAODCJ4BWFLLWTY5GPKILASZA5LG5Q)
 
-![App Screenshot](img/ui homepag game.png)
+![App Screenshot](img/home.png)
 
 
 
 ## ui design mobile app
 
-![img/Mockup 5.jpg](https://raw.githubusercontent.com/parinya02/portfolio/main/img/Mockup%205.jpg?token=GHSAT0AAAAAACAODCJ4ZUFWVWYAC4EZQI24ZA4PCYA](https://raw.githubusercontent.com/parinya02/portfolio/main/img/Mockup%205.jpg?token=GHSAT0AAAAAACAODCJ4LAPLLN7BOFVQV5GYZA5LIXQ)
+![img/ui homepag game.png](https://raw.githubusercontent.com/parinya02/portfolio/main/img/Mockup%205.jpg?token=GHSAT0AAAAAACAODCJ4LAPLLN7BOFVQV5GYZA5LIXQ)
 
-![img/Mockup 3.png](https://raw.githubusercontent.com/parinya02/portfolio/main/img/Mockup%203.png?token=GHSAT0AAAAAACAODCJ5M72QP44SZUVOZ2QEZA4PDOA)
+![App Screenshort](https://raw.githubusercontent.com/parinya02/portfolio/main/img/Mockup%203.png?token=GHSAT0AAAAAACAODCJ42VIW7LJPD4NIVKMQZA5LVLQ)
 
-![img/Mockup 4.png](https://raw.githubusercontent.com/parinya02/portfolio/main/img/Mockup%204.png?token=GHSAT0AAAAAACAODCJ5UBWUHXA52YP3N7N2ZA4PDMA)
+![img/Mockup 4.png](https://raw.githubusercontent.com/parinya02/portfolio/main/img/Mockup%204.png?token=GHSAT0AAAAAACAODCJ4NERKMMBFBKAUT3JWZA5LWGA)
 
 ![App Screenshot](img/3.png)
 
-![img/1.png](https://raw.githubusercontent.com/parinya02/portfolio/main/img/1.png?token=GHSAT0AAAAAACAODCJ5UHGJVSQQ2VHK4WQAZA4PBTA)
+![img/1.png](https://raw.githubusercontent.com/parinya02/portfolio/main/img/1.png?token=GHSAT0AAAAAACAODCJ4SKRWONTADJ46IIN6ZA5LZPQ)
 
 ![App Screenshot](img/2.png)
 
