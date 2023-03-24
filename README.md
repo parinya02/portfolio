@@ -27,7 +27,7 @@ Email: kkokklove26@gmail.com
 
 ![App Screenshot](img/ui_homepage_game2.png)
 
-![img/ui homepag game.png](https://raw.githubusercontent.com/parinya02/portfolio/main/img/ui%20homepag%20game.png?token=GHSAT0AAAAAACAODCJ5M2IVRNBTMO6XCW3CZA4PAOA)
+![img/ui homepag game.png](https://raw.githubusercontent.com/parinya02/portfolio/main/img/ui%20homepag%20game.png?token=GHSAT0AAAAAACAODCJ4BWFLLWTY5GPKILASZA5LG5Q)
 
 ![App Screenshot](img/ui homepag game.png)
 
@@ -35,7 +35,7 @@ Email: kkokklove26@gmail.com
 
 ## ui design mobile app
 
-![img/Mockup 5.jpg](https://raw.githubusercontent.com/parinya02/portfolio/main/img/Mockup%205.jpg?token=GHSAT0AAAAAACAODCJ4ZUFWVWYAC4EZQI24ZA4PCYA)
+![img/Mockup 5.jpg](https://raw.githubusercontent.com/parinya02/portfolio/main/img/Mockup%205.jpg?token=GHSAT0AAAAAACAODCJ4ZUFWVWYAC4EZQI24ZA4PCYA](https://raw.githubusercontent.com/parinya02/portfolio/main/img/Mockup%205.jpg?token=GHSAT0AAAAAACAODCJ4LAPLLN7BOFVQV5GYZA5LIXQ)
 
 ![img/Mockup 3.png](https://raw.githubusercontent.com/parinya02/portfolio/main/img/Mockup%203.png?token=GHSAT0AAAAAACAODCJ5M72QP44SZUVOZ2QEZA4PDOA)
 
