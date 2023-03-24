@@ -27,7 +27,7 @@ Email: kkokklove26@gmail.com
 
 ![App Screenshot](img/ui_homepage_game2.png)
 
-![img/ui homepag game.png]([https://raw.githubusercontent.com/parinya02/portfolio/main/img/ui%20homepag%20game.png?token=GHSAT0AAAAAACAODCJ4BWFLLWTY5GPKILASZA5LG5Q](https://media.discordapp.net/attachments/663023432082128916/1088742208112443492/ui_homepag_game.png?width=951&height=676))
+![img/ui homepag game.png]([https://raw.githubusercontent.com/parinya02/portfolio/main/img/Mockup%205.jpg?token=GHSAT0AAAAAACAODCJ4LAPLLN7BOFVQV5GYZA5LIXQ](https://media.discordapp.net/attachments/663023432082128916/1088742208112443492/ui_homepag_game.png))
 
 ![App Screenshot](img/home.png)
 
