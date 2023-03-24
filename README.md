@@ -27,7 +27,7 @@ Email: kkokklove26@gmail.com
 
 ![App Screenshot](img/ui_homepage_game2.png)
 
-![img/ui homepag game.png]([https://raw.githubusercontent.com/parinya02/portfolio/main/img/Mockup%205.jpg?token=GHSAT0AAAAAACAODCJ4LAPLLN7BOFVQV5GYZA5LIXQ](https://media.discordapp.net/attachments/663023432082128916/1088742208112443492/ui_homepag_game.png))
+![App Screenshot](https://media.discordapp.net/attachments/663023432082128916/1088742208112443492/ui_homepag_game.png)
 
 ![App Screenshot](img/home.png)
 
@@ -35,15 +35,15 @@ Email: kkokklove26@gmail.com
 
 ## ui design mobile app
 
-![img/ui homepag game.png](https://raw.githubusercontent.com/parinya02/portfolio/main/img/Mockup%205.jpg?token=GHSAT0AAAAAACAODCJ4LAPLLN7BOFVQV5GYZA5LIXQ)
+![App Screenshort](https://media.discordapp.net/attachments/663023432082128916/1088743213352890428/Mockup_5.jpg)
 
-![App Screenshort](https://raw.githubusercontent.com/parinya02/portfolio/main/img/Mockup%203.png?token=GHSAT0AAAAAACAODCJ42VIW7LJPD4NIVKMQZA5LVLQ)
+![App Screenshort](https://media.discordapp.net/attachments/663023432082128916/1088743518270402580/Mockup_3.png)
 
-![img/Mockup 4.png](https://raw.githubusercontent.com/parinya02/portfolio/main/img/Mockup%204.png?token=GHSAT0AAAAAACAODCJ4NERKMMBFBKAUT3JWZA5LWGA)
+![App Screenshort](https://media.discordapp.net/attachments/663023432082128916/1088743518589157427/Mockup_4.png)
 
 ![App Screenshot](img/3.png)
 
-![img/1.png](https://raw.githubusercontent.com/parinya02/portfolio/main/img/1.png?token=GHSAT0AAAAAACAODCJ4SKRWONTADJ46IIN6ZA5LZPQ)
+![App Screenshot](https://media.discordapp.net/attachments/663023432082128916/1088743532522643506/1.png)
 
 ![App Screenshot](img/2.png)
 
