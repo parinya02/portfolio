@@ -41,7 +41,7 @@ Email: kkokklove26@gmail.com
 
 ![App Screenshort](https://media.discordapp.net/attachments/663023432082128916/1088743518589157427/Mockup_4.png)
 
-![App Screenshort]([img/Mockup 9.png](https://raw.githubusercontent.com/parinya02/portfolio/main/img/Mockup%209.png))
+![App Screenshort](img/Mockup 9.png)
 
 ![App Screenshot](img/3.png)
 
